@@ -247,7 +247,7 @@ p:not(.modal__content_info) {
     -o-transition: all 0.2s linear;
     transition: all 0.2s linear;
     text-align: center;
-    padding: 6px 32px 4px 0;
+    padding: 5px 32px 5px 0;
     line-height: 20px;
 }
 
