@@ -1,5 +1,5 @@
 # Pop Up
-![screenshot](https://github.com/citrusonya/pop-up/blob/main/screenshot.gif)
+![screenshot](https://github.com/citrusonya/pop-up/blob/main/gif.gif)
 ____
 | [Demo](https://citrusonya.github.io/popUp/) |
 |:---------:|
